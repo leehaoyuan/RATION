@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0 python run_spec.py \
+  --model_name_or_path microsoft/deberta-base \
+  --train_file data/train_specificity.json \
+  --validation_file data/test_specificity.json \
+  --do_train \
+  --max_seq_length 128 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 3 \
+  --output_dir model/specificity \
+  --save_strategy epoch \
+  --overwrite_output_dir ;

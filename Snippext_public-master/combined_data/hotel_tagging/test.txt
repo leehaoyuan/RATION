@@ -1,0 +1,27 @@
+Servicing O
+of O
+rooms B-AS
+poor B-OP
+for O
+the O
+quality O
+of O
+the O
+hotel O
+
+Food B-AS
+and O
+service B-AS
+are O
+great B-OP
+. O
+
+Food B-AS
+, O
+room B-AS 
+and O
+staff B-AS
+are O 
+all O
+great B-OP
+. O

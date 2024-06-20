@@ -1,0 +1,315 @@
+the food they serve is not comforting , not appetizing and uncooked .	not comforting food	PAIR
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) .	different rice dishes	UNPAIR
+the food is okay and the prices here are mediocre .	okay food	PAIR
+ask for usha , the nicest bartender in manhattan .	nicest bartender	UNPAIR
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .	rubber hanger steak	PAIR
+everything was wonderful ; food , drinks , staff , mileau .	wonderful drinks	PAIR
+i thought the restaurant was nice and clean .	clean restaurant	PAIR
+fresh ingredients and everything is made to order .	fresh ingredients	PAIR
+the food here was mediocre at best .	mediocre food	PAIR
+i would highly recommend this place !	recommend place	PAIR
+the service was quick and friendly .	friendly service	PAIR
+interesting selection , good wines , service fine , fun decor .	interesting decor	UNPAIR
+i had a huge group for my birthday and we were well taken care of .	well birthday	UNPAIR
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .	inventive rolls	UNPAIR
+the characters really make for an enjoyable experience .	enjoyable characters	PAIR
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !	good rock shrimp tempura	UNPAIR
+ca n ' t wait wait for my next visit .	next visit	UNPAIR
+the food is okay and the prices here are mediocre .	mediocre food	UNPAIR
+interesting selection , good wines , service fine , fun decor .	fun selection	UNPAIR
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request !	extensive purple haze	UNPAIR
+steamed fresh so brought hot hot hot to your table .	fresh table	UNPAIR
+lloovve this place .	lloovve place	PAIR
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while .	excellent friends	UNPAIR
+hats off to the chef .	hats off chef	PAIR
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area .	excellent backyard dining area	UNPAIR
+this place is always very crowded and popular .	crowded place	PAIR
+great find in the west village !	great find	UNPAIR
+subtle food and service	subtle service	PAIR
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !	awesome spicy tuna roll	UNPAIR
+beautiful experience .	beautiful experience	UNPAIR
+i recently tried suan and i thought that it was great .	great suan	PAIR
+way below average	below average way	UNPAIR
+i ' ve been many time and have never been disappointed .	never been disappointed time	UNPAIR
+the characters really make for an enjoyable experience .	enjoyable experience	UNPAIR
+a word to the wise : you ca n ' t dine here and disturb the maitre - d ' s sense of ` ` table turnover ' ' , as whacked as it is , or else .	table dine	UNPAIR
+with the theater 2 blocks away we had a delicious meal in a beautiful room .	beautiful room	PAIR
+service was very prompt but slightly rushed .	prompt service	PAIR
+big wong is a great place to eat and fill your stomach .	great big wong	PAIR
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !	awesome rock shrimp tempura	PAIR
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .	heavenly sushi restaurant	UNPAIR
+i think the pizza is so overrated and was under cooked .	under cooked pizza	PAIR
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .	good chicken	PAIR
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests .	highest compliments guests	UNPAIR
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while .	excellent spot	PAIR
+the best pad thai i ' ve ever had .	best pad thai	PAIR
+service was very prompt but slightly rushed .	rushed service	PAIR
+the place is a bit hidden away , but once you get there , it ' s all worth it .	hidden away place	PAIR
+also , specify if you like your food spicy - its rather bland if you do n ' t .	bland food	PAIR
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious .	delicious sample anything	UNPAIR
+i wanted to go there to see if it was worth it and sadly , curiousity got the best of me and i paid dearly for it .	worth curiousity	UNPAIR
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) .	worth quantity	UNPAIR
+check out the secret back room .	secret back room	PAIR
+and evaluated on those terms pastis is simply wonderful .	wonderful pastis	PAIR
+i love their chicken pasta cant remember the name but is sooo good	love name	UNPAIR
+steamed fresh so brought hot hot hot to your table .	hot table	UNPAIR
+make sure you try this place as often as you can .	often place	PAIR
+a little overpriced but worth it once you take a bite .	overpriced bite	UNPAIR
+they were served warm and had a soft fluffy interior .	warm fluffy interior	UNPAIR
+i had a great time at jekyll and hyde !	great time	UNPAIR
+i wanted to go there to see if it was worth it and sadly , curiousity got the best of me and i paid dearly for it .	best curiousity	UNPAIR
+the high prices you ' re going to pay is for the view not for the food .	high prices view	PAIR
+the only thing that strikes you is the decor ? ( not very pleasant ) .	not very pleasant decor	PAIR
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request !	extensive request	UNPAIR
+the food was very good , a great deal , and the place its self was great .	good place	UNPAIR
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country .	nicest place	UNPAIR
+big wong is a great place to eat and fill your stomach .	great place	UNPAIR
+i am bringing my whole family back next time .	next time	UNPAIR
+food took some time to prepare , all worth waiting for .	worth time	UNPAIR
+the food here was mediocre at best .	best food	UNPAIR
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald ' s , every place makes things differently	mcdonald place	UNPAIR
+big wong is a great place to eat and fill your stomach .	great stomach	UNPAIR
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area .	excellent pizza	PAIR
+fresh ingredients and everything is made to order .	fresh order	UNPAIR
+the place is a bit hidden away , but once you get there , it ' s all worth it .	hidden away bit	UNPAIR
+decor is nice though service can be spotty .	spotty service	PAIR
+the place is a bit hidden away , but once you get there , it ' s all worth it .	worth bit	UNPAIR
+best drumsticks over rice and sour spicy soup in town !	best sour spicy soup	PAIR
+the menu is limited but almost all of the dishes are excellent .	excellent menu	UNPAIR
+great find in the west village !	great west village	UNPAIR
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best .	nice ambience	PAIR
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up .	beautiful food	UNPAIR
+rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) .	aesthetic presentation	UNPAIR
+how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me .	west economy	UNPAIR
+have been several times and it never dissapoints .	several times	UNPAIR
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !	good spicy tuna roll	PAIR
+the waitress was not attentive at all .	not attentive waitress	PAIR
+single worst restaurant in manhattan	single manhattan	UNPAIR
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests .	highest compliments reception	UNPAIR
+the service was attentive .	attentive service	PAIR
+shame on this place for the horrible rude staff and non - existent customer service .	rude staff	PAIR
+for authentic thai food , look no further than toons .	authentic toons	UNPAIR
+i tried a couple other dishes but was n ' t too impressed .	n ' t too impressed couple	UNPAIR
+patroon features a nice cigar bar and has great staff .	great cigar bar	UNPAIR
+excellent spot for holiday get togethers with co - workers or friends that you have n ' t seen in a while .	excellent while	UNPAIR
+it is definitely a good spot for snacks and chat .	good snacks	UNPAIR
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant .	unwelcoming maitre - d	PAIR
+people are always friendly .	friendly people	PAIR
+the family seafood entree was very good .	good family seafood entree	PAIR
+i ' m still mad that i had to pay for lousy food .	lousy food	PAIR
+it is quite a spectacular scene i ' ll give them that .	spectacular scene	PAIR
+for authentic thai food , look no further than toons .	further thai food	UNPAIR
+i ' ve been many time and have never been disappointed .	many time	UNPAIR
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up .	does n ' t quite match up people	UNPAIR
+the service was quick and friendly .	quick service	PAIR
+the food they serve is not comforting , not appetizing and uncooked .	uncooked food	PAIR
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up .	beautiful thalia	PAIR
+the menu is limited but almost all of the dishes are excellent .	excellent dishes	PAIR
+with the theater 2 blocks away we had a delicious meal in a beautiful room .	delicious room	UNPAIR
+the food ' s as good as ever .	good food	PAIR
+ca n ' t wait wait for my next visit .	next wait wait	UNPAIR
+the food was very good , a great deal , and the place its self was great .	great food	UNPAIR
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !	spectacular waiter	UNPAIR
+this is some really good , inexpensive sushi .	good sushi	PAIR
+single worst restaurant in manhattan	worst restaurant	PAIR
+would n ' t recomend it for dinner !	n ' t recomend dinner	UNPAIR
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place .	unprofessional and i wish cafe noir would get some good staff staff	PAIR
+the spinach is fresh , definately not frozen . . .	fresh spinach	PAIR
+eat at your own risk .	own risk	UNPAIR
+a little overpriced but worth it once you take a bite .	worth bite	UNPAIR
+the bread was stale , the salad was overpriced and empty .	empty bread	UNPAIR
+i think the pizza is so overrated and was under cooked .	overrated pizza	PAIR
+have been several times and it never dissapoints .	never dissapoints times	UNPAIR
+i do n ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) .	huge turnoff	UNPAIR
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts .	upscale environment	PAIR
+shame on this place for the horrible rude staff and non - existent customer service .	rude customer service	UNPAIR
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) .	worth prix fixe menu	PAIR
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !	amazing waiter	PAIR
+it is definitely a good spot for snacks and chat .	good spot	PAIR
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .	wasnt impressed salmon	PAIR
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant .	fine maitre - d	UNPAIR
+this place is always very crowded and popular .	popular place	PAIR
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) .	recommend varieties	UNPAIR
+raga ' s is a romantic , cozy restaurant .	romantic restaurant	UNPAIR
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was .	worst life	UNPAIR
+supercilious scorn is in .	supercilious scorn	UNPAIR
+the menu is limited but almost all of the dishes are excellent .	limited dishes	UNPAIR
+shame on this place for the horrible rude staff and non - existent customer service .	non - existent customer service	PAIR
+this place has got to be the best japanese restaurant in the new york area .	japanese restaurant	UNPAIR
+everything was wonderful ; food , drinks , staff , mileau .	wonderful everything	UNPAIR
+patroon features a nice cigar bar and has great staff .	nice cigar bar	PAIR
+the food is good , especially their more basic dishes , and the drinks are delicious .	delicious food	UNPAIR
+service was good and food is wonderful .	good food	UNPAIR
+the food is good , especially their more basic dishes , and the drinks are delicious .	good drinks	UNPAIR
+friendly staff that actually lets you enjoy your meal and the company you ' re with .	friendly meal	UNPAIR
+service was good and food is wonderful .	wonderful service	UNPAIR
+this place has got to be the best japanese restaurant in the new york area .	best place	PAIR
+the menu is very limited - i think we counted 4 or 5 entrees .	limited menu	PAIR
+we will return many times for this oasis in mid - town .	many times	UNPAIR
+decor is nice though service can be spotty .	nice decor	PAIR
+i had the lamb special which was perfect .	perfect lamb special	PAIR
+decor needs to be upgraded but the food is amazing !	upgraded food	UNPAIR
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie .	good brasserie	PAIR
+this place is a great bargain .	great bargain place	PAIR
+i ordered the smoked salmon and roe appetizer and it was off flavor .	off flavor smoked salmon and roe appetizer	PAIR
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was .	worst eggs benedict	PAIR
+the martinis are amazing and very fairly priced .	amazing martinis	PAIR
+raga ' s is a romantic , cozy restaurant .	cozy raga ' s	PAIR
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) .	worth quality	UNPAIR
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world .	well courses	UNPAIR
+and evaluated on those terms pastis is simply wonderful .	wonderful terms	UNPAIR
+when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n ' t think i should have to pay for food with a maggot in it .	willing bill	UNPAIR
+have been dozens of times and never failed to enjoy the experience .	enjoy experience	UNPAIR
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .	delicious rolls	UNPAIR
+best drumsticks over rice and sour spicy soup in town !	best drumsticks over rice	PAIR
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic .	fantastic jekyll and hyde pub	PAIR
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic .	fantastic surprise	UNPAIR
+best drumsticks over rice and sour spicy soup in town !	best town	UNPAIR
+the food was very good , a great deal , and the place its self was great .	good food	PAIR
+interesting selection , good wines , service fine , fun decor .	fun decor	PAIR
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world .	well sake ’ s	PAIR
+they were served warm and had a soft fluffy interior .	soft fluffy interior	UNPAIR
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best .	best ambience	UNPAIR
+eat at your own risk .	own eat	UNPAIR
+the only thing that strikes you is the decor ? ( not very pleasant ) .	not very pleasant thing	UNPAIR
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant .	fine maitre - d	UNPAIR
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !	spectacular service	PAIR
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) .	recommend rice dishes	PAIR
+it is definitely a good spot for snacks and chat .	good chat	UNPAIR
+however , i think jeckll and hydes t is one of those places that is fun to do once .	fun places	UNPAIR
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh .	amazing food	UNPAIR
+i paid just about $ 60 for a good meal , though : )	good meal	PAIR
+the sake ’ s complimented the courses very well and is successfully easing me into the sake world .	well world	UNPAIR
+rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) .	aesthetic vegetarian dish	UNPAIR
+not the typical nyc gimmick theme restaurant .	not the typical restaurant	PAIR
+i love their chicken pasta cant remember the name but is sooo good	good chicken pasta	PAIR
+their sake list was extensive , but we were looking for purple haze , which was n ' t listed but made for us upon request !	extensive sake list	PAIR
+service was good and food is wonderful .	wonderful food	PAIR
+wine list is extensive without being over - priced .	without being over - priced wine list	PAIR
+when the main course finally arrived ( another 45mins ) half of our order was missing .	main order	UNPAIR
+the turkey burgers are scary !	scary turkey burgers	PAIR
+raga ' s is a romantic , cozy restaurant .	romantic raga ' s	PAIR
+friendly staff that actually lets you enjoy your meal and the company you ' re with .	friendly staff	PAIR
+interesting selection , good wines , service fine , fun decor .	good wines	PAIR
+we will return many times for this oasis in mid - town .	many oasis	UNPAIR
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts .	upscale lot	UNPAIR
+the bread was stale , the salad was overpriced and empty .	empty salad	PAIR
+decor needs to be upgraded but the food is amazing !	amazing decor	UNPAIR
+i do n ' t appreciate places or people that try to drive up the bill without the patron ' s knowledge so that was a huge turnoff ( more than the price ) .	more s knowledge	UNPAIR
+but nonetheless - - great spot , great food .	great spot	PAIR
+the bread was stale , the salad was overpriced and empty .	stale salad	UNPAIR
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town .	freindly eating	UNPAIR
+subtle food and service	subtle food	PAIR
+with the theater 2 blocks away we had a delicious meal in a beautiful room .	delicious meal	PAIR
+a word to the wise : you ca n ' t dine here and disturb the maitre - d ' s sense of ` ` table turnover ' ' , as whacked as it is , or else .	table turnover	UNPAIR
+patroon features a nice cigar bar and has great staff .	great staff	PAIR
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area .	excellent backyard dining area	UNPAIR
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .	rubber tuna	UNPAIR
+fresh ingredients and everything is made to order .	fresh everything	UNPAIR
+my daughter ' s wedding reception at water ' s edge received the highest compliments from our guests .	highest compliments water ' s edge	PAIR
+best drumsticks over rice and sour spicy soup in town !	best town	UNPAIR
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best .	pretty ambience	PAIR
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .	creative rolls	PAIR
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts .	rich guys	UNPAIR
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic .	great jekyll and hyde pub	PAIR
+everything was wonderful ; food , drinks , staff , mileau .	wonderful staff	PAIR
+for authentic thai food , look no further than toons .	authentic thai food	PAIR
+i tried a couple other dishes but was n ' t too impressed .	n ' t too impressed dishes	PAIR
+how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me .	west place	UNPAIR
+the food is good , especially their more basic dishes , and the drinks are delicious .	delicious drinks	PAIR
+i thought the restaurant was nice and clean .	nice restaurant	PAIR
+i had their eggs benedict for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was .	worst brunch	UNPAIR
+i love this place	love place	PAIR
+ask for usha , the nicest bartender in manhattan .	nicest usha	PAIR
+service was good and food is wonderful .	good service	PAIR
+the only thing that strikes you is the decor ? ( not very pleasant ) .	only decor	UNPAIR
+i had a huge group for my birthday and we were well taken care of .	huge birthday	UNPAIR
+however , i think jeckll and hydes t is one of those places that is fun to do once .	fun jeckll and hydes	PAIR
+we had a good time .	good time	UNPAIR
+the food was very good , a great deal , and the place its self was great .	a food	PAIR
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .	wasnt impressed chicken	UNPAIR
+have been dozens of times and never failed to enjoy the experience .	enjoy times	UNPAIR
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country .	nicest outdoor restaurants	PAIR
+everything i had was good , and i ' m a eater .	good eater	UNPAIR
+it is one the nicest outdoor restaurants i have ever seen in ny - - i am from italy and this place rivals the ones in my country .	nicest italy	UNPAIR
+wine list is extensive without being over - priced .	extensive wine list	PAIR
+this place has got to be the best japanese restaurant in the new york area .	japanese place	UNPAIR
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place .	great staff	UNPAIR
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) .	recommend congee ( rice porridge )	PAIR
+with the theater 2 blocks away we had a delicious meal in a beautiful room .	beautiful meal	UNPAIR
+decor needs to be upgraded but the food is amazing !	amazing food	PAIR
+the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant .	fine service	PAIR
+the menu is very limited - i think we counted 4 or 5 entrees .	limited entrees	UNPAIR
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .	heavenly sea urchin	PAIR
+i really liked this place .	liked place	PAIR
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .	flavorless tuna	PAIR
+la rosa waltzes in , and i think they are doing it the best .	best la rosa	PAIR
+i had a great time at jekyll and hyde !	great jekyll and hyde	PAIR
+when the main course finally arrived ( another 45mins ) half of our order was missing .	main course	UNPAIR
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town .	freindly wait staff	PAIR
+however , our $ 14 drinks were were horrible !	horrible drinks	PAIR
+a great choice at any cost and a great deal .	great cost	UNPAIR
+fine dining restaurant quality .	fine dining	PAIR
+make sure you try this place as often as you can .	sure place	UNPAIR
+the high prices you ' re going to pay is for the view not for the food .	high prices food	PAIR
+patroon features a nice cigar bar and has great staff .	nice staff	UNPAIR
+the food is good .	good food	PAIR
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie .	reasonable price point	UNPAIR
+raga ' s is a romantic , cozy restaurant .	cozy restaurant	UNPAIR
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious .	delicious pad thai	PAIR
+but nonetheless - - great spot , great food .	great food	PAIR
+small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .	small salmon	UNPAIR
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place .	unprofessional and i wish cafe noir would get some good staff cafe noir	UNPAIR
+make sure you have the spicy scallop roll . . .	sure spicy scallop roll	UNPAIR
+the food was ok and fair nothing to go crazy .	fair food	PAIR
+the food was ok and fair nothing to go crazy .	fair nothing	UNPAIR
+the food was ok and fair nothing to go crazy .	crazy food	UNPAIR
+everything was wonderful ; food , drinks , staff , mileau .	wonderful everything	UNPAIR
+this is some really good , inexpensive sushi .	inexpensive sushi	PAIR
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh .	delicious restaurant	UNPAIR
+everything i had was good , and i ' m a eater .	good everything i	UNPAIR
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place .	great cafe noir	PAIR
+ask for usha , the nicest bartender in manhattan .	nicest ask	UNPAIR
+the food was authentic .	authentic food	PAIR
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .	flavorless hanger steak	UNPAIR
+decor is nice though service can be spotty .	spotty decor	UNPAIR
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh .	fresh food	PAIR
+we love th pink pony .	love pink pony	PAIR
+i love their chicken pasta cant remember the name but is sooo good	love chicken pasta	PAIR
+the food here is rather good , but only if you like to wait for it .	good food	PAIR
+a great choice at any cost and a great deal .	great choice	UNPAIR
+favorite sushi in nyc	favorite nyc	UNPAIR
+but the staff was so horrible to us .	horrible staff	PAIR
+i am bringing my whole family back next time .	whole family	UNPAIR
+when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n ' t think i should have to pay for food with a maggot in it .	willing manager	UNPAIR
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald ' s , every place makes things differently	similar dish	UNPAIR
+maybe it was the great company ( i had friends visiting from philly – yes , it was not a date this time ) or the super reasonable price point , but i just can ’ t say enough good things about this brasserie .	great brasserie	UNPAIR
+favorite sushi in nyc	favorite sushi	PAIR
+the pizza and wine were excellent - the service too - - but what really made this place was the backyard dining area .	excellent wine	PAIR
+friendly staff that actually lets you enjoy your meal and the company you ' re with .	friendly company	UNPAIR
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n ' t quite match up .	does n ' t quite match up food	PAIR
+the food was ok and fair nothing to go crazy .	ok food	PAIR
+single worst restaurant in manhattan	single restaurant	UNPAIR
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .	heavenly sushi	UNPAIR
+food took some time to prepare , all worth waiting for .	worth food	PAIR
+decor needs to be upgraded but the food is amazing !	upgraded decor	PAIR
+amazing food .	amazing food	PAIR
+the food is great .	great food	PAIR
+the food is good , especially their more basic dishes , and the drinks are delicious .	good basic dishes	PAIR
+the place is a bit hidden away , but once you get there , it ' s all worth it .	worth place	PAIR
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .	delicious japanese food	PAIR
+this dish is my favorite and i always get it when i go there and never get tired of it .	favorite dish	PAIR
+the spinach is fresh , definately not frozen . . .	frozen spinach	UNPAIR
+the martinis are amazing and very fairly priced .	fairly priced martinis	PAIR
+the wait staff is very freindly , they make it feel like you ' re eating in a freindly little european town .	european wait staff	UNPAIR
+what a great place !	great place	PAIR
+decor is nice though service can be spotty .	nice service	UNPAIR
+the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !	amazing service	UNPAIR
+the bread was stale , the salad was overpriced and empty .	overpriced salad	PAIR
+the menu is limited but almost all of the dishes are excellent .	limited menu	PAIR
+shame on this place for the horrible rude staff and non - existent customer service .	non - existent staff	UNPAIR
+i love their chicken pasta cant remember the name but is sooo good	good name	UNPAIR
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best .	best ambience	UNPAIR
+try the pad thai , or sample anything on the appetizer menu . . . they ' re all delicious .	delicious appetizer menu	UNPAIR
+fresh restaurant was amazing . . . . . . . . food was delicious and of course fresh .	fresh restaurant	PAIR
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic .	great anniversary	UNPAIR

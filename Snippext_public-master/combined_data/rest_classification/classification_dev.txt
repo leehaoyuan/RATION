@@ -1,0 +1,173 @@
+extensive sake list	DRINKS#STYLE_OPTIONS
+good spicy tuna roll	FOOD#QUALITY
+awesome rock shrimp tempura	FOOD#QUALITY
+love pink pony	RESTAURANT#GENERAL
+best place	RESTAURANT#GENERAL
+heavenly sea urchin	FOOD#QUALITY
+worth prix fixe menu	FOOD#QUALITY
+worth prix fixe menu	FOOD#STYLE_OPTIONS
+worth prix fixe menu	FOOD#PRICES
+good food	FOOD#QUALITY
+bland food	FOOD#QUALITY
+pretty ambience	AMBIENCE#GENERAL
+nice ambience	AMBIENCE#GENERAL
+often place	RESTAURANT#GENERAL
+romantic raga ' s	AMBIENCE#GENERAL
+cozy raga ' s	AMBIENCE#GENERAL
+great jekyll and hyde	RESTAURANT#GENERAL
+fine dining	FOOD#QUALITY
+great jekyll and hyde pub	RESTAURANT#GENERAL
+fantastic jekyll and hyde pub	RESTAURANT#GENERAL
+fresh restaurant	RESTAURANT#GENERAL
+amazing restaurant	RESTAURANT#GENERAL
+delicious food	FOOD#QUALITY
+fresh food	FOOD#QUALITY
+hats off chef	FOOD#QUALITY
+good sushi	FOOD#QUALITY
+inexpensive sushi	FOOD#PRICES
+crowded place	RESTAURANT#MISCELLANEOUS
+popular place	RESTAURANT#MISCELLANEOUS
+wonderful pastis	RESTAURANT#GENERAL
+lousy food	FOOD#QUALITY
+rubber hanger steak	FOOD#QUALITY
+flavorless tuna	FOOD#QUALITY
+excellent pizza	FOOD#QUALITY
+excellent wine	DRINKS#QUALITY
+excellent service	SERVICE#GENERAL
+nicest outdoor restaurants	AMBIENCE#GENERAL
+limited menu	FOOD#STYLE_OPTIONS
+enjoyable characters	AMBIENCE#GENERAL
+fun jeckll and hydes	RESTAURANT#GENERAL
+secret back room	AMBIENCE#GENERAL
+authentic food	FOOD#QUALITY
+horrible staff	SERVICE#GENERAL
+nice decor	AMBIENCE#GENERAL
+spotty service	SERVICE#GENERAL
+worst eggs benedict	FOOD#QUALITY
+delicious meal	FOOD#QUALITY
+beautiful room	AMBIENCE#GENERAL
+attentive service	SERVICE#GENERAL
+nice cigar bar	AMBIENCE#GENERAL
+great staff	SERVICE#GENERAL
+lloovve place	RESTAURANT#GENERAL
+limited menu	FOOD#STYLE_OPTIONS
+excellent dishes	FOOD#QUALITY
+extensive wine list	DRINKS#STYLE_OPTIONS
+without being over - priced wine list	DRINKS#PRICES
+good food	FOOD#QUALITY
+a food	FOOD#PRICES
+great place	AMBIENCE#GENERAL
+freindly wait staff	SERVICE#GENERAL
+unprofessional and i wish cafe noir would get some good staff staff	SERVICE#GENERAL
+great cafe noir	RESTAURANT#GENERAL
+wonderful food	FOOD#QUALITY
+wonderful drinks	DRINKS#QUALITY
+wonderful staff	SERVICE#GENERAL
+wonderful mileau	AMBIENCE#GENERAL
+recommend place	RESTAURANT#GENERAL
+fresh ingredients	FOOD#QUALITY
+friendly staff	SERVICE#GENERAL
+beautiful people	SERVICE#GENERAL
+does n ' t quite match up food	FOOD#QUALITY
+beautiful thalia	AMBIENCE#GENERAL
+off flavor smoked salmon and roe appetizer	FOOD#QUALITY
+good food	FOOD#QUALITY
+good basic dishes	FOOD#QUALITY
+delicious drinks	DRINKS#QUALITY
+scary turkey burgers	FOOD#QUALITY
+authentic thai food	FOOD#QUALITY
+delicious pad thai	FOOD#QUALITY
+delicious pad thai	FOOD#QUALITY
+good service	SERVICE#GENERAL
+wonderful food	FOOD#QUALITY
+good spot	RESTAURANT#GENERAL
+wasnt impressed salmon	FOOD#QUALITY
+good chicken	FOOD#QUALITY
+small servings for main entree	FOOD#STYLE_OPTIONS
+excellent spot	RESTAURANT#MISCELLANEOUS
+great place	RESTAURANT#GENERAL
+not the typical restaurant	AMBIENCE#GENERAL
+prompt service	SERVICE#GENERAL
+rushed service	SERVICE#GENERAL
+liked place	RESTAURANT#GENERAL
+recommend rice dishes	FOOD#QUALITY
+recommend congee ( rice porridge )	FOOD#QUALITY
+great suan	RESTAURANT#GENERAL
+great bargain place	RESTAURANT#PRICES
+friendly people	SERVICE#GENERAL
+best pad thai	FOOD#QUALITY
+nicest usha	SERVICE#GENERAL
+good food	FOOD#QUALITY
+best drumsticks over rice	FOOD#QUALITY
+best sour spicy soup	FOOD#QUALITY
+favorite dish	FOOD#QUALITY
+great big wong	RESTAURANT#GENERAL
+okay food	FOOD#QUALITY
+great food	FOOD#QUALITY
+best la rosa	FOOD#QUALITY
+good wines	DRINKS#QUALITY
+fine service	SERVICE#GENERAL
+fun decor	AMBIENCE#GENERAL
+interesting selection	FOOD#STYLE_OPTIONS
+mediocre food	FOOD#QUALITY
+good meal	FOOD#QUALITY
+hidden away place	LOCATION#GENERAL
+worth place	LOCATION#GENERAL
+love chicken pasta	FOOD#QUALITY
+good chicken pasta	FOOD#QUALITY
+overrated pizza	FOOD#QUALITY
+under cooked pizza	FOOD#QUALITY
+love place	RESTAURANT#GENERAL
+quick service	SERVICE#GENERAL
+friendly service	SERVICE#GENERAL
+nice restaurant	RESTAURANT#GENERAL
+clean restaurant	AMBIENCE#GENERAL
+not attentive waitress	SERVICE#GENERAL
+favorite sushi	FOOD#QUALITY
+creative rolls	FOOD#STYLE_OPTIONS
+inventive japanese food	FOOD#STYLE_OPTIONS
+delicious japanese food	FOOD#QUALITY
+fresh spinach	FOOD#QUALITY
+upgraded decor	AMBIENCE#GENERAL
+amazing food	FOOD#QUALITY
+highest compliments water ' s edge	RESTAURANT#MISCELLANEOUS
+high prices view	LOCATION#GENERAL
+high prices food	FOOD#QUALITY
+ok food	FOOD#QUALITY
+fair food	FOOD#QUALITY
+subtle food	FOOD#QUALITY
+subtle service	SERVICE#GENERAL
+worth food	FOOD#QUALITY
+amazing food	FOOD#QUALITY
+not very pleasant decor	AMBIENCE#GENERAL
+amazing martinis	DRINKS#QUALITY
+fairly priced martinis	DRINKS#PRICES
+upscale environment	AMBIENCE#GENERAL
+horrible drinks	DRINKS#QUALITY
+horrible drinks	DRINKS#PRICES
+spectacular service	SERVICE#GENERAL
+amazing waiter	SERVICE#GENERAL
+well sake ’ s	DRINKS#QUALITY
+good brasserie	RESTAURANT#GENERAL
+good brasserie	RESTAURANT#PRICES
+n ' t too impressed dishes	FOOD#QUALITY
+good family seafood entree	FOOD#QUALITY
+not comforting food	FOOD#QUALITY
+not appetizing food	FOOD#QUALITY
+uncooked food	FOOD#QUALITY
+worst restaurant	RESTAURANT#GENERAL
+spectacular scene	AMBIENCE#GENERAL
+great spot	RESTAURANT#GENERAL
+great food	FOOD#QUALITY
+fine food	FOOD#QUALITY
+fine service	SERVICE#GENERAL
+unwelcoming maitre - d	SERVICE#GENERAL
+arrogant maitre - d	SERVICE#GENERAL
+perfect lamb special	FOOD#QUALITY
+stale bread	FOOD#QUALITY
+overpriced salad	FOOD#PRICES
+empty salad	FOOD#STYLE_OPTIONS
+horrible staff	SERVICE#GENERAL
+rude staff	SERVICE#GENERAL
+non - existent customer service	SERVICE#GENERAL
+good food	FOOD#QUALITY
