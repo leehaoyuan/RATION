@@ -1,3 +1,4 @@
+python clause_from_source.py data/yelp
 CUDA_VISIBLE_DEVICES=0 python entail_review_sent.py \
 	--entail_model rest_absaauga0neg+a2pretrain \
 	--input data/yelp_clause+pair.json \
